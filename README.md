@@ -1,2 +1,0 @@
-# wims
-start up wwit
