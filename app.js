@@ -9,8 +9,5 @@ sdfsdfsd;
 
 asdads;
 sdfsdf;
-<<<<<<< HEAD
-=======
 
 sdsdsd;
->>>>>>> devolop
